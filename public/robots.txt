@@ -1,0 +1,13 @@
+# PixelCheck365 Robots.txt
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap Index
+Sitemap: https://pixelcheck365.com/sitemap.xml
+Host: https://pixelcheck365.com
