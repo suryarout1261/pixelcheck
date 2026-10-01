@@ -1,0 +1,14 @@
+﻿/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-XSS-Protection: 1; mode=block
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+https://pixelcheck365.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.pixelcheck365.pages.dev/*
+  X-Robots-Tag: noindex
